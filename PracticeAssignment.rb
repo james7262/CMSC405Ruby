@@ -54,14 +54,22 @@ puts p.call 7
 
 # 9. Who created the Ruby programming language?
 # - Mats
+
 # 10. Explain how you interact with the Ruby programming language?
+# Via IDE Visual Studio Code.
 
 # 11. What is Ruby's programming model?
+# Object Oriented.
 
 # 12. What is Ruby's typing model?
+# Strongly typed.
 
 # 13. Explain what it means to be weakly (or loosely) typed?
+# Variable and object data types control how they can be manipulated, example is which 
+# methods can be used, etc.
 
 # 14. Explain what it means to be statically typed?
+# Variable or object types are checked when declared, before code is executed and ran.
 
 # 15. Write the full path to where Ruby's language libraries exist on your laptop.
+# This PC - OS (C:) - Ruby31-x64 - lib - ruby - 3.1.0
